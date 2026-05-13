@@ -24,7 +24,7 @@ A fully client-side WhatsApp UI clone built with **[Dioxus 0.7](https://dioxusla
 
 ## Demo Video
 
-assets/preview/whatsapp.mp4
+<video src="assets/preview/whatsapp.mp4" controls width="100%"></video>
 
 A walkthrough of the application showing the chat list, navigation between tabs, and the conversation screen with message bubbles and input controls.
 
